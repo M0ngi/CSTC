@@ -26,5 +26,7 @@ an accompanying app for the congress participants, providing a registration syst
 - [`CSTC vote`](https://github.com/ahmedbechirmezhoud/cstc-vote): Web app enable participants to vote by scanning QR codes or logging in with their account
 - `Live voting`: Javascript web page that shows real-time voting results 
 
-this project wouldn't be possible without the contribution of a team of great developers
-  [Habib Sellami](https://github.com/SellamiHabib) and [Mongi Saidane](https://github.com/M0ngi)
+Dev team:
+- [Bechir Mezhoud](https://github.com/ahmedbechirmezhoud)
+- [Habib Sellami](https://github.com/SellamiHabib)
+- [Mongi Saidane](https://github.com/M0ngi)
